@@ -11,5 +11,7 @@ I added 'alt' tags to each image.
 
 ![Code Refactor Homework](/assets/images/Homework1.png)
 
-[My website](https://gaky0401.github.io/)
+[My website](https://gaky0401.github.io/CodeRefactorHW1/)
+
+My github is gaky0401/CodeRefactorHW1.
 
